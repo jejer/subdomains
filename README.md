@@ -2,6 +2,7 @@
 
 <p align="center"><strong>example.com</strong> is a service that allows developers to get a sweet-looking <code>.example.com</code> domain for their personal websites.</p>
 # Register
+
 ## How to Register
 
 - Fork this repository
