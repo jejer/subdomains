@@ -1,4 +1,4 @@
-var domainName = "example.com";
+var domainName = "ldo.pics";
 var registrar = NewRegistrar("none");
 var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"), 0);
 
