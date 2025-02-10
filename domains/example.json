@@ -1,12 +1,12 @@
 {
-    "description": "1.is-a.dev",
+    "description": "www.777764.xyz",
     "owner": {
-        "username": "i-am-is-a-dev",
-        "email": "lx737456@gmail.com"
+        "username": "jejer",
+        "email": "j@j.com"
     },
     "record": {
-        "A": [
-            "89.106.200.1"
+        "CNAME": [
+            "www.jejer.net"
         ]
     }
 }
