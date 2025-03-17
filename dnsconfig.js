@@ -119,6 +119,8 @@ var ignored = [
     IGNORE("dkim._domainkey", "TXT"),
     IGNORE("ns[1-4]", "A,AAAA"),
     IGNORE("pb", "A,AAAA"),
+    IGNORE("b2", "A,AAAA"),
+    IGNORE("qr", "A,AAAA"),
 ];
 
 // Push TXT record of when the zone was last updated
