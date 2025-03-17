@@ -121,6 +121,8 @@ var ignored = [
     IGNORE("pb", "A,AAAA"),
     IGNORE("b2", "A,AAAA"),
     IGNORE("qr", "A,AAAA"),
+    IGNORE("sub", "A,AAAA"),
+    IGNORE("ip", "A,AAAA"),
 ];
 
 // Push TXT record of when the zone was last updated
