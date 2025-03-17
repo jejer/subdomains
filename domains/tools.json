@@ -1,0 +1,10 @@
+{
+    "description": "https://dev-toolbox-web-self.vercel.app",
+    "owner": {
+        "username": "jejer",
+    },
+    "proxied": false,
+    "record": {
+        "CNAME": "cname.vercel-dns.com."
+    }
+}
